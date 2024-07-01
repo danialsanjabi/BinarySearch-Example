@@ -43,7 +43,7 @@ if n == len(heights):
 else:
     print('n : ', n,end=" | ")
     print('len of heights : ', len(heights))
-    print('ERROR => must n == len(heights) and 1 <= n <= 100000')
+    print('ERROR => must n == len(heights)')
 
 end_time = time.time()
 print("Runtime:", end_time - start_time, "seconds")
