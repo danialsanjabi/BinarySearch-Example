@@ -1,0 +1,2 @@
+# BinarySearch Example
+ Problem Description: You have a list of toy pieces with different heights placed on a shelf. Each toy piece can influence only the pieces in front of it that have a smaller height. The "influence power" of a toy piece is defined as the number of pieces it can influence. The task is to calculate the influence power of each toy piece and the total influence power of all pieces combined.
